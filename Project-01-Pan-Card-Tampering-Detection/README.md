@@ -71,11 +71,11 @@ project-01/
 
 ### Original vs Tampered vs Difference
 
-![PAN Card Comparison](./assets/Output_Image-1.png)
+![PAN Card Comparison](./assets/Output_Image-01.png)
 
 ### Highlighted Tampered Regions
 
-![Tampering Detection](./assets/Output_Image-2.png)
+![Tampering Detection](./assets/Output_Image-02.png)
 
 ---
 
