@@ -21,7 +21,7 @@ Python, OpenCV, scikit-image, NumPy, Google Colab
 - Structural similarity analysis
 - Visual highlighting of tampered regions
 
-👉 **[View Project](\Project-01-Pan-Card-Tampering-Detection)**
+👉 **[View Project](./Project-01-Pan-Card-Tampering-Detection)**
 
 ---
 
