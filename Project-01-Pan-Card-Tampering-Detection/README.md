@@ -71,7 +71,7 @@ project-01/
 
 ### Original vs Tampered vs Difference
 
-![PAN Card Comparison](./assets/Output_Image -01.png)
+![PAN Card Comparison](./assets/Output_Image-01.png)
 
 ### Highlighted Tampered Regions
 
