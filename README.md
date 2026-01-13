@@ -25,9 +25,9 @@ Python, OpenCV, scikit-image, NumPy, Google Colab
 
 ---
 
-### 🔹 Project 02 – (Coming Soon)
+ ### 🔹 Project 02 – Federated Learning for Object Detection using YOLOv8
+👉 [View Project](./Project-02-Federated-Learning-YOLOv8)
 
-Description will be added.
 
 ---
 
